@@ -1,0 +1,10 @@
+**.DS_Store
+**target
+**/.idea
+**/.project
+**/.classpath
+**/.settings
+**~
+**iml
+**nb-configuration.xml
+
